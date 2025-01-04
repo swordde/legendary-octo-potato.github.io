@@ -30,7 +30,7 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/swordde/legendary-octo-potato.github.io.git
 
-   ## Usage 🚀
+## Usage 🚀
 
 Open the `index.html` file in your web browser to view the application. Click on the avatars to switch between different profiles and discover the amazing talents of the Quint Crew.
 
